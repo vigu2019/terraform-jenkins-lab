@@ -3,7 +3,7 @@ variable "aws_region" {
   type        = string
   default     = "ap-south-1"
 }
-
+#comment
 variable "instance_type" {
   description = "EC2 instance type"
   type        = string
